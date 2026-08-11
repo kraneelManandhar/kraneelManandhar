@@ -16,13 +16,12 @@
 
 ## About Me
 
-I'm a developer and student based in Kathmandu, Nepal, currently exploring the intersection of full-stack development, AI/ML concepts, and object-oriented design. I believe learning never stops — there's always something new to build, break, and understand.
+I'm a CS student focused on full-stack development, Java backends, and AI/ML concepts.
 
-- 🎓 Currently studying Computer Science (2nd Year)
-- 🔭 Working on web projects involving PHP, JavaScript, and Jupyter Notebooks
-- 🌱 Exploring **AI/ML concepts** and **full-stack development**
-- 🤝 Open to collaborations and new project ideas
-- ⚡ Fun fact: I earned the **YOLO** and **Pull Shark** badges on GitHub — I ship fast and often
+- 🎓 Computer Science Student (2nd Year)
+- 🔭 Building web applications and backend systems
+- 🌱 Learning Java, Spring Boot, and AI/ML
+- 🤝 Open to collaborations
 
 ---
 
@@ -30,6 +29,7 @@ I'm a developer and student based in Kathmandu, Nepal, currently exploring the i
 
 **Languages**
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -38,6 +38,8 @@ I'm a developer and student based in Kathmandu, Nepal, currently exploring the i
 
 **Tools & Frameworks**
 
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Maven](https://img.shields.io/badge/Apache_Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
@@ -48,19 +50,19 @@ I'm a developer and student based in Kathmandu, Nepal, currently exploring the i
 ## 🚀 Featured Projects
 
 ### 🏨 [Hostel Management System](https://github.com/kraneelManandhar/HostelManagementSystem)
-A PHP-based web application for managing hostel operations — from room allocation to student records.
+PHP web app for room allocation and student management.
 
 ### 🌐 [Portfolio Website](https://github.com/kraneelManandhar/portfolio)
-My personal portfolio site built with HTML & CSS, showcasing my projects and skills.
+Personal portfolio built with HTML and CSS.
 
 ### 🤖 [Concepts & Technologies of AI](https://github.com/kraneelManandhar/ConceptsAndTechnologiesOfAI)
-Jupyter Notebook collection covering AI/ML concepts from my 2nd year coursework (3rd semester).
+Jupyter Notebooks covering core AI/ML topics.
 
 ### 🎓 [Full Stack Development](https://github.com/kraneelManandhar/FullStackDevelopment)
-A PHP-driven module project exploring full-stack web development from my 3rd semester.
+Web development project using PHP.
 
 ### 🧩 [Object Oriented Design & Programming](https://github.com/kraneelManandhar/ObjectOrientedDesignAndProgramming)
-OOP concepts and implementations from my 3rd semester coursework.
+Implementations of core OOP principles.
 
 ---
 
@@ -76,14 +78,8 @@ OOP concepts and implementations from my 3rd semester coursework.
 
 ---
 
-## 🏆 GitHub Achievements
-
-🦈 Pull Shark ×2 &nbsp;|&nbsp; ⚡ Quickdraw &nbsp;|&nbsp; 🎯 YOLO
-
----
-
 <div align="center">
 
-*Thanks for stopping by! Feel free to explore my repos or reach out on [LinkedIn](https://www.linkedin.com/in/kraneel-manandhar-0a3aa335a/).*
+*Thanks for stopping by! Connect with me on [LinkedIn](https://www.linkedin.com/in/kraneel-manandhar-0a3aa335a/).*
 
 </div>
